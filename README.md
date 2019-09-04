@@ -37,9 +37,9 @@ For Natural langauge inference:
 python attack_nli.py
 ```
 
-Examples of run code for these two files are in [run_attack_classification.py]() and [run_attack_nli.py](). Here we explain each required argument in details:
+Examples of run code for these two files are in [run_attack_classification.py](https://github.com/jind11/TextFooler/blob/master/run_attack_classification.py) and [run_attack_nli.py](https://github.com/jind11/TextFooler/blob/master/run_attack_nli.py). Here we explain each required argument in details:
 
-  * --dataset_path: The path to the dataset. We put the 1000 examples for each dataset we used in the paper in the folder [data]().
+  * --dataset_path: The path to the dataset. We put the 1000 examples for each dataset we used in the paper in the folder [data](https://github.com/jind11/TextFooler/tree/master/data).
   * --target_model: Name of the target model such as ''bert''.
   * --target_model_path: The path to the trained parameters of the target model.
   * --counter_fitting_embeddings_path: The path to the counter-fitting word embeddings.
