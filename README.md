@@ -28,7 +28,7 @@ python setup.py install
 cd ..
 ```
 
-* (Optional) Run the following code to pre-compute the cosine similarity scores between word pairs based on the [counter-fitting word embeddings](https://github.com/nmrksic/counter-fitting).
+* (Optional) Run the following code to pre-compute the cosine similarity scores between word pairs based on the [counter-fitting word embeddings](https://drive.google.com/open?id=1bayGomljWb6HeYDMTDKXrh0HackKtSlx).
 
 ```
 python comp_cos_sim_mat.py [PATH_TO_COUNTER_FITTING_WORD_EMBEDDINGS]
