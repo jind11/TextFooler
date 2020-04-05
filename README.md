@@ -55,3 +55,6 @@ Examples of run code for these two files are in [run_attack_classification.py](h
   * --counter_fitting_cos_sim_path: This is optional. If given, then the pre-computed cosine similarity scores based on the counter-fitting word embeddings will be loaded to save time. If not, it will be calculated.
   * --USE_cache_path: The path to save the USE model file (Downloading is automatic if this path is empty).
   
+One more thing:
+
+In case someone wants to replicate our experiments for training the target models, we shared the used [seven datasets](https://drive.google.com/open?id=1N-FYUa5XN8qDs4SgttQQnrkeTXXAXjTv) we have processed for you!
