@@ -53,7 +53,7 @@ Examples of run code for these two files are in [run_attack_classification.py](h
 
   * --dataset_path: The path to the dataset. We put the 1000 examples for each dataset we used in the paper in the folder [data](https://github.com/jind11/TextFooler/tree/master/data).
   * --target_model: Name of the target model such as ''bert''.
-  * --target_model_path: The path to the trained parameters of the target model. For ease of replication, we shared the [trained BERT model parameters](https://drive.google.com/drive/folders/1wKjelHFcqsT3GgA7LzWmoaAHcUkP4c7B?usp=sharing), the [trained LSTM model parameters](https://drive.google.com/open?id=1jOcUzWj3lpmiXHVi_KzvDK_sWmsmx7B5), and the [trained CNN model parameters](https://drive.google.com/open?id=1yUHFGN0e8Q8v_NU5wW25wx27bEOAyL0P) on each dataset we used.
+  * --target_model_path: The path to the trained parameters of the target model. For ease of replication, we shared the [trained BERT model parameters](https://drive.google.com/drive/folders/1wKjelHFcqsT3GgA7LzWmoaAHcUkP4c7B?usp=sharing), the [trained LSTM model parameters](https://drive.google.com/drive/folders/108myH_HHtBJX8MvhBQuvTGb-kGOce5M2?usp=sharing), and the [trained CNN model parameters](https://drive.google.com/drive/folders/1Ifowzfers0m1Aw2vE8O7SMifHUhkTEjh?usp=sharing) on each dataset we used.
   * --counter_fitting_embeddings_path: The path to the counter-fitting word embeddings.
   * --counter_fitting_cos_sim_path: This is optional. If given, then the pre-computed cosine similarity scores based on the counter-fitting word embeddings will be loaded to save time. If not, it will be calculated.
   * --USE_cache_path: The path to save the USE model file (Downloading is automatic if this path is empty).
