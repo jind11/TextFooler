@@ -16,10 +16,10 @@ This is the source code for the paper: [Jin, Di, et al. "Is BERT Really Robust? 
 Our 7 datasets are [here](https://bit.ly/nlp_adv_data).
 
 ## Prerequisites:
-* Pytorch >= 0.4
-* Tensorflow >= 1.0 
-* Numpy
-* Python >= 3.6
+Required packages are listed in the requirements.txt file:
+```
+pip install requirements.txt
+```
 
 ## How to use
 
