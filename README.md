@@ -62,4 +62,4 @@ Two more things to share with you:
 
 1. In case someone wants to replicate our experiments for training the target models, we shared the used [seven datasets](https://drive.google.com/open?id=1N-FYUa5XN8qDs4SgttQQnrkeTXXAXjTv) we have processed for you!
 
-2. In case someone may want to use our generated adversary results towards the benchmark data directly, [here it is](https://drive.google.com/open?id=1V8CJhrvqfeoYNZ5ov4HBE6Vq1e-MFkYy).
+2. In case someone may want to use our generated adversary results towards the benchmark data directly, [here it is](https://drive.google.com/drive/folders/12yeqcqZiEWuncC5zhSUmKBC3GLFiCEaN?usp=sharing).
