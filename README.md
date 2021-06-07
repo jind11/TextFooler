@@ -18,7 +18,7 @@ Our 7 datasets are [here](https://bit.ly/nlp_adv_data).
 ## Prerequisites:
 Required packages are listed in the requirements.txt file:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## How to use
