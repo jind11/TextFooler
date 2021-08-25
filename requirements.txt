@@ -30,7 +30,7 @@ s3transfer==0.3.3
 six==1.15.0
 soupsieve==2.0.1
 tensorboard==1.12.2
-tensorflow-gpu==1.12.0
+tensorflow-gpu==2.5.1
 tensorflow-hub==0.7.0
 termcolor==1.1.0
 torch==1.2.0
