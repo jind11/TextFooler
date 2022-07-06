@@ -17,7 +17,7 @@ jmespath==0.10.0
 joblib==0.15.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
-lxml==4.5.1
+lxml==4.9.1
 Markdown==3.2.2
 nltk==3.5
 numpy==1.19.0
